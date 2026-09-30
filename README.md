@@ -1,6 +1,6 @@
-# 🎉 Mini Project: Image Classification Model 🎉
+# 🎉 Glido Labs: Image Classification Model 🎉
 
-I’m thrilled to share that I’ve successfully completed my mini project! 🚀🤖
+I’m thrilled to share that I’ve successfully completed this Glido Labs project! 🚀🤖
 
 ## 📸 Image Classification Model
 This project focuses on building an image classification model using machine learning. The model is trained to recognize and identify legendary sports personalities. 🌟
